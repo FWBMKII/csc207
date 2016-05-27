@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;protected/components/action&apos; to &apos;protected/components/actions&apos;&#x0D;&#x0A;- Original element: &apos;project/protected/components/action&apos;&#x0D;&#x0A;- Renamed element: &apos;project/protected/components/actions&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings&#x0D;&#x0A;- Rename subpackages of the package" description="Rename package &apos;protected/components/action&apos;" flags="589830" hierarchical="true" id="org.eclipse.dltk.ui.rename.script.folder" input="/&lt;protected\/components\/action" name="protected/components/actions" patterns="*" qualified="false" references="true" stamp="1427311741270" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,20 @@
+<?php
+	$cnmb = 11000000;
+	echo ($cnmb."<br/><br/>");
+	
+	$name = $_REQUEST["name"];
+	$wcnmb = $_REQUEST["wcnmb"];
+	$address = $_REQUEST["address"];
+	$over18 = $_REQUEST["over18"];
+	echo("over18 : ".$over18."<br/>");
+	echo("address : ".$address."<br/>");
+	if($over18==="on"){
+		echo("==========<br/>");
+	}
+	if (is_null($name)){
+		echo("name null<br/>");
+	}
+	if (is_null($address)){
+		echo("address null<br/>");
+	}
+?>

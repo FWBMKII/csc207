@@ -1,0 +1,25 @@
+1385437407488	Extracts string 'null' into R.string.Vitalsign_textview_name
+1385437752267	Extracts string 'null' into R.string.Vitalsign_textfield_heartrate
+1385437942198	Extracts string 'null' into R.string.Vitalsign_textview_hint
+1385438042986	Extracts string 'null' into R.string.Vitalsign_textfield_temperature
+1385438118004	Extracts string 'null' into R.string.Vitalsign_textfield_systolic
+1385438155037	Rename field 'editText4'
+1385438192200	Extracts string 'null' into R.string.Vitalsign_textfield_diastolic
+1385438366760	Extracts string 'null' into R.string.Vitalsign_button_record
+1385438379877	Rename field 'button1'
+1385526280729	Rename field 'physicianInfo'
+1385526300071	Rename field 'hcn'
+1385526322489	Rename field 'patient_info_button'
+1385526340956	Rename field 'record_button'
+1385526355990	Rename field 'saveAll_button'
+1385526370214	Rename field 'logout_button'
+1385526906476	Rename field 'hcn'
+1385527578000	Rename field 'patientNameHCN'
+1385527612923	Rename field 'userInstruction'
+1385527636323	Rename field 'patientMedication'
+1385527655099	Rename field 'patientInstructions'
+1385527673508	Rename field 'prescriptionUpdate'
+1385527696383	Rename field 'Lookup_button_back'
+1385530441252	Move compilation unit
+1385530615504	Delete element
+1385530619884	Delete element

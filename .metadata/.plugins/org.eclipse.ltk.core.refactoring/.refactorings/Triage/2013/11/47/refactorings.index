@@ -1,0 +1,50 @@
+1385016393241	Extracts string 'null' into R.string.loginUsername_text
+1385016443086	Extracts string 'null' into R.string.login_password
+1385016540480	Extracts string 'null' into R.string.login_login
+1385016554485	Rename field 'button1'
+1385017349764	Move compilation unit
+1385022181950	Delete element
+1385022187091	Delete element
+1385022253563	Move compilation unit
+1385022331224	Move compilation unit
+1385024293954	Extracts string 'null' into R.string.HomepageN_hello
+1385065243275	Extracts string 'null' into R.string.HomepageN_button_record
+1385065293155	Rename field 'button1'
+1385065455133	Extracts string 'null' into R.string.HomepageN_button_getPatient
+1385065481617	Rename field 'button1'
+1385065542909	Extracts string 'null' into R.string.HomepageN_textfield_HCN
+1385065739158	Rename field 'editText1'
+1385065783784	Extracts string 'null' into R.string.HomepageN_button_urgency
+1385065812670	Rename field 'button2'
+1385065834083	Extracts string 'null' into R.string.Homepage_button_save
+1385065897622	Extracts string 'null' into R.string.Homepage_button_logout
+1385065927487	Rename field 'button3'
+1385066678638	Move compilation unit
+1385066975307	Move compilation unit
+1385067400056	Move compilation unit
+1385069309259	Rename type 'LoginActivity'
+1385069326694	Rename resource 'activity_login.xml'
+1385070726600	Extracts string 'null' into R.string.Record_textview
+1385070791617	Extracts string 'null' into R.string.Record_name
+1385070833310	Extracts string 'null' into R.string.Record_hcn
+1385070876340	Extracts string 'null' into R.string.Record_birthdate
+1385070983035	Extracts string 'null' into R.string.Record_button_record
+1385071014871	Rename field 'button1'
+1385072584586	Extracts string 'null' into R.string.Patient_text_hello
+1385073697209	Extracts string 'null' into R.string.Patient_button_lookup
+1385073726491	Rename field 'button1'
+1385073756738	Extracts string 'null' into R.string.Patient_button_vs
+1385073778010	Rename field 'button2'
+1385073811266	Extracts string 'null' into R.string.Patient_button_setseen
+1385073829035	Rename field 'button3'
+1385073852296	Extracts string 'null' into R.string.Pateint_button_back
+1385073877855	Rename field 'button4'
+1385152695191	Move compilation unit
+1385153780740	Rename field 'button1'
+1385153809503	Extracts string 'null' into R.string.Urgency_button_back
+1385153837214	Rename field 'textView1'
+1385153869427	Extracts string 'null' into R.string.Urgency_text_urgencylist
+1385154586799	Extracts string 'null' into R.string.Lookup_text_info
+1385154717850	Extracts string 'null' into R.string.Lookup_button_back
+1385155102997	Rename field 'lookup_button_back'
+1385157070107	Move compilation unit

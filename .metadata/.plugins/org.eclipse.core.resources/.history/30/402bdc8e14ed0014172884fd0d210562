@@ -1,0 +1,14 @@
+<?php
+	$cnmb = 11000000;
+	print $cnmb;
+	
+	$name = $_REQUEST["name"];
+	$wcnmb = $_REQUEST["wcnmb"];
+	print($name);
+	print($wcnmb);
+	if ($name == null){
+		print("null");
+	}else{
+		print("undefined");
+	}
+?>

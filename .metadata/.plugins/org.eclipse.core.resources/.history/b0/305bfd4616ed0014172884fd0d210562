@@ -1,0 +1,22 @@
+<?php
+	$cnmb = 11000000;
+	echo ($cnmb);
+	
+	$name = $_REQUEST["name"];
+	$wcnmb = $_REQUEST["wcnmb"];
+	$address = $_REQUEST["address"];
+	//print($name);
+	//print($wcnmb);
+	echo($address);
+	/*if ($name == null){
+		print("null");
+	}else{
+		print("undefined");
+	}*/
+	if (is_null($name)){
+		echo("name null");
+	}
+	if (is_null($address)){
+		echo("address null");
+	}
+?>
